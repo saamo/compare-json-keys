@@ -1,8 +1,15 @@
 {
   "name": "compare-json-keys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compare JSON keys",
   "main": "index.js",
+  "keywords": [
+    "compare",
+    "json",
+    "object",
+    "keys",
+    "schema"
+  ],
   "scripts": {
     "test": "mocha"
   },
