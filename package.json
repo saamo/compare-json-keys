@@ -1,0 +1,22 @@
+{
+  "name": "compare-json-keys",
+  "version": "1.0.0",
+  "description": "Compare JSON keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saamo/compare-json-keys.git"
+  },
+  "author": "Samir Djellil <samir@djellil.com> (http://samirdjellil.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saamo/compare-json-keys/issues"
+  },
+  "homepage": "https://github.com/saamo/compare-json-keys#readme",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
