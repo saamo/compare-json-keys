@@ -1,6 +1,6 @@
 # Compare JSON keys
 
-This module compares keys (_not_ values) of two JSON objects. It returns `true` if keys are the same, otherwise `false`;
+This module compares keys (_not_ values) of two JSON objects. It returns `true` if keys are the same, otherwise `false`.
 
 ## Install
 
