@@ -13,8 +13,8 @@ npm install --save compare-json-keys
 ```js
 var compareJsonKeys = require('compare-json-keys');
 
-var obj1 = { a: 1, b: 2 },
-    obj2 = { b: 1, a: 2 };
+var obj1 = { a: 1, b: 2 };
+var obj2 = { b: 1, a: 2 };
 
 console.log(compareJsonKeys(obj1, obj2));
 ```
