@@ -1,6 +1,6 @@
 {
   "name": "compare-json-keys",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Compare JSON keys",
   "main": "index.js",
   "keywords": [
